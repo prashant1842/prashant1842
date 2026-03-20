@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
-<h3 align="center">B.Tech Student | Python Developer | Data Analytics Enthusiast</h3>
+<h3 align="center">B.Tech Student | Aspiring Software Developer | Python Enthusiast</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 💻 Interested in **Python Development, Data Analytics, and DevOps**
 - 🌱 Currently learning **Python, SQL, Linux, and Data Analysis**
 - 🚀 Looking for **Internship Opportunities**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **prashantsingh1842@gmail.com**
 
 ---
 
