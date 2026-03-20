@@ -36,6 +36,23 @@
 </p>
 
 ---
+---
+
+## 🚀 Projects
+
+### 🔹 Virtual Sudoku Solver
+A computer vision based Sudoku solver that detects the Sudoku grid from an image and automatically solves the puzzle.
+
+Tech Stack: Python, OpenCV, NumPy  
+🔗 Project Link: https://github.com/prashant1842/virtual-sudoku
+
+### 🔹 Driver Drowsiness Detection System
+A real-time driver monitoring system that detects eye closure and alerts when drowsiness is detected to prevent accidents.
+
+Tech Stack: Python, OpenCV, Computer Vision  
+🔗 Project Link: https://github.com/prashant1842/driver-drowsiness-detection
+
+---
 
 ### 📊 GitHub Stats
 ![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
