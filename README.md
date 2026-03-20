@@ -46,11 +46,13 @@ A computer vision based Sudoku solver that detects the Sudoku grid from an image
 Tech Stack: Python, OpenCV, NumPy  
 🔗 Project Link: https://github.com/prashant1842/virtual-sudoku
 
+
 ### 🔹 Driver Drowsiness Detection System
 A real-time driver monitoring system that detects eye closure and alerts when drowsiness is detected to prevent accidents.
 
 Tech Stack: Python, OpenCV, Computer Vision  
 🔗 Project Link: https://github.com/prashant1842/driver_drowsiness-detection
+
 ---
 
 ### 📊 GitHub Stats
