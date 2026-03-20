@@ -50,8 +50,7 @@ Tech Stack: Python, OpenCV, NumPy
 A real-time driver monitoring system that detects eye closure and alerts when drowsiness is detected to prevent accidents.
 
 Tech Stack: Python, OpenCV, Computer Vision  
-🔗 Project Link: https://github.com/prashant1842/driver-drowsiness-detection
-
+🔗 Project Link: https://github.com/prashant1842/driver_drowsiness-detection
 ---
 
 ### 📊 GitHub Stats
